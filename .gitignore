@@ -1,0 +1,8 @@
+# Build outputs
+ihe
+run_tests
+*.o
+build/
+# Editor / OS artefacts
+.DS_Store
+*~
